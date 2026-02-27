@@ -1,0 +1,4 @@
+Streamlit
+openai
+python-dotenv
+PyPDF2
